@@ -9,11 +9,8 @@ section p {
 	color: #454545;
 }
 section h1 {
-<<<<<<< HEAD
-	font: 24px 'Open Sans';
-=======
+
 	/*font: 32px 'Open Sans';*/
->>>>>>> experiments
 	font-weight: bold;
 }
 section p {
